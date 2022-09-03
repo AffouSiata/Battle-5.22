@@ -6,7 +6,7 @@ function nombre(int){
         console.log(racine);
 
         let nombre2 = 0;
-        for (let i = 2; i < ; i++) {
+        for (let i = 2; i < racine; i++) {
             const element = array[i];
             
         }
